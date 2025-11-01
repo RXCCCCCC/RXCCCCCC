@@ -29,7 +29,3 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=RXCCCCCC&abbreviated=true" />
 </p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=NEVER END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Just do it!!!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
