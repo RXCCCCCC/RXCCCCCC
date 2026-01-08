@@ -27,7 +27,7 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=RXCCCCCC&fontSize=90&fontAlign=50&fontAlignY=30&desc=看啥呢看,没啥能看的,都是aigc" alt="RXCCCCCC banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=RXCCCCCC&fontSize=90&fontAlign=50&fontAlignY=30&desc=看啥呢看,木得看的,都是aigc" alt="RXCCCCCC banner" />
 </p>
 
 <p align="center">
