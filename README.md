@@ -26,7 +26,7 @@ ATTENTION:
 Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=RXCCCCCC&fontSize=90&fontAlign=50&fontAlignY=30&desc=哦哦哦哦耶耶耶&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=RXCCCCCC&fontSize=90&fontAlign=50&fontAlignY=30&desc=看啥呢看,没啥能看的,都是aigc&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <p align="center">
