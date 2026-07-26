@@ -1,0 +1,105 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="820" height="180" viewBox="0 0 820 180">
+  <defs>
+    <radialGradient id="tubeGlow" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#3a1d05"/>
+      <stop offset="70%" stop-color="#1a0e04"/>
+      <stop offset="100%" stop-color="#0d0702"/>
+    </radialGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="25%" stop-color="#ffffff" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="neon" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="b1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0.6" result="b2"/>
+      <feMerge>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="b2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="bigGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="820" height="180" rx="12" fill="#07050a"/>
+  <rect x="6" y="6" width="808" height="168" rx="9" fill="none" stroke="#2b1c10" stroke-width="2"/>
+  <text x="410" y="28" text-anchor="middle" font-family="Courier New, monospace" font-size="13" letter-spacing="4" fill="#7a5c33">DIVERGENCE METER</text>
+
+  <!-- tubes -->
+  <g id="tubes">
+    <!-- tube positions: 8 tubes, x start 70, width 78, gap 12 -->
+    <!-- digit glyphs drawn as text -->
+    <g font-family="Courier New, monospace" font-size="74" font-weight="bold" text-anchor="middle">
+      <!-- each tube -->
+      <!-- 1 -->
+      <g transform="translate(70,0)">
+        <rect x="0" y="42" width="78" height="112" rx="30" fill="url(#tubeGlow)" stroke="#3d2a17" stroke-width="2"/>
+        <ellipse cx="39" cy="42" rx="39" ry="14" fill="#1a0e04" stroke="#3d2a17" stroke-width="2"/>
+        <text x="39" y="128" fill="#ffb347" filter="url(#neon)">1<animate attributeName="opacity" values="1;0.86;1;0.94;1" dur="3.1s" repeatCount="indefinite"/></text>
+        <text x="39" y="128" fill="#ff8c00" opacity="0.5" filter="url(#bigGlow)">1</text>
+        <rect x="8" y="50" width="26" height="70" rx="13" fill="url(#glass)"/>
+      </g>
+      <!-- . -->
+      <g transform="translate(158,0)">
+        <rect x="0" y="42" width="40" height="112" rx="18" fill="url(#tubeGlow)" stroke="#3d2a17" stroke-width="2"/>
+        <ellipse cx="20" cy="42" rx="20" ry="10" fill="#1a0e04" stroke="#3d2a17" stroke-width="2"/>
+        <circle cx="20" cy="118" r="7" fill="#ffb347" filter="url(#neon)">
+          <animate attributeName="opacity" values="1;0.8;1" dur="2.3s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+      <!-- 0 -->
+      <g transform="translate(208,0)">
+        <rect x="0" y="42" width="78" height="112" rx="30" fill="url(#tubeGlow)" stroke="#3d2a17" stroke-width="2"/>
+        <ellipse cx="39" cy="42" rx="39" ry="14" fill="#1a0e04" stroke="#3d2a17" stroke-width="2"/>
+        <text x="39" y="128" fill="#ffb347" filter="url(#neon)">0<animate attributeName="opacity" values="1;0.9;1;0.82;1" dur="4.2s" repeatCount="indefinite"/></text>
+        <text x="39" y="128" fill="#ff8c00" opacity="0.5" filter="url(#bigGlow)">0</text>
+        <rect x="8" y="50" width="26" height="70" rx="13" fill="url(#glass)"/>
+      </g>
+      <!-- 4 -->
+      <g transform="translate(296,0)">
+        <rect x="0" y="42" width="78" height="112" rx="30" fill="url(#tubeGlow)" stroke="#3d2a17" stroke-width="2"/>
+        <ellipse cx="39" cy="42" rx="39" ry="14" fill="#1a0e04" stroke="#3d2a17" stroke-width="2"/>
+        <text x="39" y="128" fill="#ffb347" filter="url(#neon)">4<animate attributeName="opacity" values="1;0.88;1;0.95;1" dur="3.7s" repeatCount="indefinite"/></text>
+        <text x="39" y="128" fill="#ff8c00" opacity="0.5" filter="url(#bigGlow)">4</text>
+        <rect x="8" y="50" width="26" height="70" rx="13" fill="url(#glass)"/>
+      </g>
+      <!-- 8 -->
+      <g transform="translate(384,0)">
+        <rect x="0" y="42" width="78" height="112" rx="30" fill="url(#tubeGlow)" stroke="#3d2a17" stroke-width="2"/>
+        <ellipse cx="39" cy="42" rx="39" ry="14" fill="#1a0e04" stroke="#3d2a17" stroke-width="2"/>
+        <text x="39" y="128" fill="#ffb347" filter="url(#neon)">8<animate attributeName="opacity" values="1;0.93;1;0.85;1" dur="2.9s" repeatCount="indefinite"/></text>
+        <text x="39" y="128" fill="#ff8c00" opacity="0.5" filter="url(#bigGlow)">8</text>
+        <rect x="8" y="50" width="26" height="70" rx="13" fill="url(#glass)"/>
+      </g>
+      <!-- 5 -->
+      <g transform="translate(472,0)">
+        <rect x="0" y="42" width="78" height="112" rx="30" fill="url(#tubeGlow)" stroke="#3d2a17" stroke-width="2"/>
+        <ellipse cx="39" cy="42" rx="39" ry="14" fill="#1a0e04" stroke="#3d2a17" stroke-width="2"/>
+        <text x="39" y="128" fill="#ffb347" filter="url(#neon)">5<animate attributeName="opacity" values="1;0.87;1;0.96;1" dur="3.4s" repeatCount="indefinite"/></text>
+        <text x="39" y="128" fill="#ff8c00" opacity="0.5" filter="url(#bigGlow)">5</text>
+        <rect x="8" y="50" width="26" height="70" rx="13" fill="url(#glass)"/>
+      </g>
+      <!-- 9 -->
+      <g transform="translate(560,0)">
+        <rect x="0" y="42" width="78" height="112" rx="30" fill="url(#tubeGlow)" stroke="#3d2a17" stroke-width="2"/>
+        <ellipse cx="39" cy="42" rx="39" ry="14" fill="#1a0e04" stroke="#3d2a17" stroke-width="2"/>
+        <text x="39" y="128" fill="#ffb347" filter="url(#neon)">9<animate attributeName="opacity" values="1;0.9;1;0.84;1" dur="4.6s" repeatCount="indefinite"/></text>
+        <text x="39" y="128" fill="#ff8c00" opacity="0.5" filter="url(#bigGlow)">9</text>
+        <rect x="8" y="50" width="26" height="70" rx="13" fill="url(#glass)"/>
+      </g>
+      <!-- 6 -->
+      <g transform="translate(648,0)">
+        <rect x="0" y="42" width="78" height="112" rx="30" fill="url(#tubeGlow)" stroke="#3d2a17" stroke-width="2"/>
+        <ellipse cx="39" cy="42" rx="39" ry="14" fill="#1a0e04" stroke="#3d2a17" stroke-width="2"/>
+        <text x="39" y="128" fill="#ffb347" filter="url(#neon)">6<animate attributeName="opacity" values="1;0.85;1;0.92;1" dur="3.8s" repeatCount="indefinite"/></text>
+        <text x="39" y="128" fill="#ff8c00" opacity="0.5" filter="url(#bigGlow)">6</text>
+        <rect x="8" y="50" width="26" height="70" rx="13" fill="url(#glass)"/>
+      </g>
+    </g>
+  </g>
+
+  <text x="410" y="172" text-anchor="middle" font-family="Courier New, monospace" font-size="11" letter-spacing="3" fill="#5a4426">STEINS;GATE WORLDLINE — EL PSY KONGROO</text>
+</svg>
