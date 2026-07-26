@@ -66,13 +66,13 @@ class LabMember004:
       <a href="https://github.com/RXCCCCCC/lanxin-travelmate-aigc-2026"><b>lanxin-travelmate-aigc-2026</b></a><br/>
       <sub>AIGC travel-mate agent for the Lanxin Cup 2026</sub><br/><br/>
       <img src="https://img.shields.io/badge/Python-ff9a1f?style=flat-square&logo=python&logoColor=white&labelColor=1a0e04" alt="Python" />
-      <a href="https://github.com/RXCCCCCC/lanxin-travelmate-aigc-2026/stargazers"><img src="https://img.shields.io/github/stars/RXCCCCCC/lanxin-travelmate-aigc-2026?style=flat-square&color=ff8c00&labelColor=1a0e04" alt="stars" /></a>
+      <a href="https://github.com/RXCCCCCC/lanxin-travelmate-aigc-2026"><img src="https://img.shields.io/github/stars/RXCCCCCC/lanxin-travelmate-aigc-2026?style=flat-square&color=ff8c00&labelColor=1a0e04" alt="stars" /></a>
     </td>
     <td align="center">
       <a href="https://github.com/RXCCCCCC/The_Temptation_of_Dahei_Mountain"><b>The_Temptation_of_Dahei_Mountain</b></a><br/>
       <sub>C++ game project</sub><br/><br/>
       <img src="https://img.shields.io/badge/C%2B%2B-ff9a1f?style=flat-square&logo=cplusplus&logoColor=white&labelColor=1a0e04" alt="C++" />
-      <a href="https://github.com/RXCCCCCC/The_Temptation_of_Dahei_Mountain/stargazers"><img src="https://img.shields.io/github/stars/RXCCCCCC/The_Temptation_of_Dahei_Mountain?style=flat-square&color=ff8c00&labelColor=1a0e04" alt="stars" /></a>
+      <a href="https://github.com/RXCCCCCC/The_Temptation_of_Dahei_Mountain"><img src="https://img.shields.io/github/stars/RXCCCCCC/The_Temptation_of_Dahei_Mountain?style=flat-square&color=ff8c00&labelColor=1a0e04" alt="stars" /></a>
     </td>
   </tr>
   <tr>
@@ -80,13 +80,13 @@ class LabMember004:
       <a href="https://github.com/RXCCCCCC/dlut-aigc-project"><b>dlut-aigc-project</b></a><br/>
       <sub>AIGC web application built with Vue</sub><br/><br/>
       <img src="https://img.shields.io/badge/Vue.js-ff9a1f?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=1a0e04" alt="Vue" />
-      <a href="https://github.com/RXCCCCCC/dlut-aigc-project/stargazers"><img src="https://img.shields.io/github/stars/RXCCCCCC/dlut-aigc-project?style=flat-square&color=ff8c00&labelColor=1a0e04" alt="stars" /></a>
+      <a href="https://github.com/RXCCCCCC/dlut-aigc-project"><img src="https://img.shields.io/github/stars/RXCCCCCC/dlut-aigc-project?style=flat-square&color=ff8c00&labelColor=1a0e04" alt="stars" /></a>
     </td>
     <td align="center">
       <a href="https://github.com/RXCCCCCC/cjw_red_map"><b>cjw_red_map</b></a><br/>
       <sub>Red-tourism map web app built with Vue</sub><br/><br/>
       <img src="https://img.shields.io/badge/Vue.js-ff9a1f?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=1a0e04" alt="Vue" />
-      <a href="https://github.com/RXCCCCCC/cjw_red_map/stargazers"><img src="https://img.shields.io/github/stars/RXCCCCCC/cjw_red_map?style=flat-square&color=ff8c00&labelColor=1a0e04" alt="stars" /></a>
+      <a href="https://github.com/RXCCCCCC/cjw_red_map"><img src="https://img.shields.io/github/stars/RXCCCCCC/cjw_red_map?style=flat-square&color=ff8c00&labelColor=1a0e04" alt="stars" /></a>
     </td>
   </tr>
 </table>
