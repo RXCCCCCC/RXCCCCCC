@@ -31,6 +31,7 @@ Steins;Gate themed profile - RXCCCCCC
 - 🎓 Undergraduate at **Dalian University of Technology**, School of Software; exchange year at **South China University of Technology** (2025-2026); short-term exchange program in **Japan**
 - 🔭 Research interests: **Agent / MLLM / Multimodal** — building practical interactive AI systems
 - 📫 Reach me: [xiongchao.rao@gmail.com](mailto:xiongchao.rao@gmail.com)
+- 📝 Blog: [blog.rxcccccc.icu](https://blog.rxcccccc.icu/)
 
 ## 🏆 Honors
 
