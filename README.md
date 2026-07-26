@@ -28,17 +28,6 @@ Steins;Gate themed profile - RXCCCCCC
 
 ## 🧪 About Me
 
-```python
-class LabMember004:
-    name       = "Rao Xiongchao"
-    education  = "Dalian University of Technology · School of Software (Class of 2024)"
-    exchange   = ["SCUT, Guangzhou (2025-2026, one year)", "Japan (short-term program)"]
-    interests  = ["LLM Agent", "MLLM / Multimodal", "AI Companion & Digital Human",
-                  "Human-AI Interaction"]
-    contact    = "xiongchao.rao@gmail.com"
-    motto      = "Time waits for no one."
-```
-
 - 🎓 Undergraduate at **Dalian University of Technology**, School of Software; exchange year at **South China University of Technology** (2025-2026); short-term exchange program in **Japan**
 - 🔭 Research interests: **Agent / MLLM / Multimodal** — building practical interactive AI systems
 - 📫 Reach me: [xiongchao.rao@gmail.com](mailto:xiongchao.rao@gmail.com)
