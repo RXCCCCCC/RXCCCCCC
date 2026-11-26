@@ -3,16 +3,16 @@ Steins;Gate themed profile - RXCCCCCC
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0e04,50:ff8c00,100:2b1c10&height=280&section=header&text=RXCCCCCC&fontSize=90&fontColor=ffb347&fontAlign=50&fontAlignY=32&desc=El%20Psy%20Kongroo&descSize=24&descAlignY=55" alt="banner" />
+  <img src="./assets/profile-hero.svg" width="920" alt="RXCCCCCC — Future Gadget Lab, worldline 1.048596" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF9A1F&background=00000000&center=true&vCenter=true&width=800&lines=EL+PSY+KONGROO;The+universe+has+a+beginning%2C+but+no+end.;Steins%3BGate+%E2%80%94+Worldline+1.048596" alt="typing" />
+  <a href="https://blog.rxcccccc.icu/"><img src="https://img.shields.io/badge/Blog-blog.rxcccccc.icu-ff9a1f?style=flat-square&amp;logo=hexo&amp;logoColor=ffb347&amp;labelColor=15191e" alt="Personal blog: blog.rxcccccc.icu" /></a>
+  <a href="mailto:xiongchao.rao@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-ff9a1f?style=flat-square&amp;logo=gmail&amp;logoColor=ffb347&amp;labelColor=15191e" alt="Contact via email" /></a>
 </p>
 
-<p align="center">
-  <img src="./assets/divergence-meter.svg" width="700" alt="divergence meter 1.048596" />
-</p>
+<details>
+<summary>Worldline Observation Log</summary>
 
 <!--WORLDLINE:START-->
 ```text
@@ -26,26 +26,18 @@ Steins;Gate themed profile - RXCCCCCC
 ```
 <!--WORLDLINE:END-->
 
+</details>
+
 ## 🧪 About Me
 
 - 👋 I'm **Xiongchao Rao** (RXCCCCCC).
 - 🎓 Undergraduate student majoring in **Software Engineering** at **Dalian University of Technology**.
-- 📫 Reach me: [xiongchao.rao@gmail.com](mailto:xiongchao.rao@gmail.com)
-- 📝 Blog: [blog.rxcccccc.icu](https://blog.rxcccccc.icu/)
 
 ## 🔬 Research Interests
 
 - **Multimodal Understanding & Generation**
 - **Real-time Multimodal Human-AI Interaction**
 - **AI Agents & Self-Evolving Systems**
-
-## 📚 Research Experience
-
-- **[MiniMind-V — Reproduction & Performance Analysis](https://github.com/RXCCCCCC/minimind-v-research)**  
-  Reproduced the MiniMind-V MoE pre-training, supervised fine-tuning, and evaluation pipeline on a single RTX 4090 and investigated training bottlenecks through performance profiling.
-
-- **[SoulX-Duplug — Reproduction & Protocol Audit](https://github.com/RXCCCCCC/soulx-duplug-reproduction)**  
-  Conducted an independent evaluation of SoulX-Duplug on 1,217 samples under a reconstructed protocol, documenting evaluation discrepancies and reproducibility limitations.
 
 ## 🏆 Honors
 
