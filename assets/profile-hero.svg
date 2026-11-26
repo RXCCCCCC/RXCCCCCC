@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="212" viewBox="0 0 920 212" role="img" aria-labelledby="title desc">
+  <title id="title">RXCCCCCC — El Psy Kongroo</title>
+  <desc id="desc">Steins;Gate inspired laboratory display with worldline divergence 1.048596.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15191e"/><stop offset="1" stop-color="#0b0e12"/></linearGradient>
+    <linearGradient id="tube" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#26201c"/><stop offset="0.48" stop-color="#101013"/><stop offset="1" stop-color="#20150f"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#edac69" stroke-opacity="0.065" stroke-width="1"/></pattern>
+    <filter id="glow" x="-45%" y="-45%" width="190%" height="190%"><feGaussianBlur stdDeviation="3.2"/></filter>
+  </defs>
+  <rect x="1" y="1" width="918" height="210" rx="14" fill="url(#bg)" stroke="#624327" stroke-width="1.5"/>
+  <rect x="13" y="13" width="894" height="186" rx="8" fill="url(#grid)"/>
+  <path d="M24 48V24h24M896 48V24h-24M24 164v24h24M896 164v24h-24" fill="none" stroke="#c78a48" stroke-width="1.5" opacity=".75"/>
+  <path d="M40 49h378" stroke="#9b6537" stroke-opacity=".45"/>
+  <circle cx="45" cy="35" r="3.5" fill="#ffb45c"/>
+  <text x="56" y="39" fill="#be986e" font-family="monospace" font-size="11" letter-spacing="2.1">FUTURE GADGET LAB / 004</text>
+  <text x="40" y="105" fill="#f3d8b5" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="700" letter-spacing=".4">RXCCCCCC</text>
+  <text x="42" y="137" fill="#ffab52" font-family="monospace" font-size="16" letter-spacing="1.6">EL PSY KONGROO</text>
+  <path d="M42 153h35m8 0h14" stroke="#c58240" stroke-width="2" stroke-linecap="round"/>
+  <text x="42" y="175" fill="#a8a6a2" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing=".5">STEINS;GATE  /  WORLDLINE OBSERVATION</text>
+  <rect x="467" y="29" width="412" height="154" rx="10" fill="#090b0e" stroke="#5f432c"/>
+  <path d="M486 60h374" stroke="#463221"/>
+  <text x="486" y="49" font-family="monospace" font-size="11" letter-spacing="1.7" fill="#c4a07d">DIVERGENCE METER</text>
+  <circle cx="841" cy="45" r="3" fill="#e6a055"/>
+  <text x="850" y="49" fill="#b3906d" font-family="monospace" font-size="9">SG</text>
+  <g stroke="#65452a" fill="url(#tube)">
+    <rect x="486" y="73" width="43" height="72" rx="8"/><rect x="546" y="73" width="43" height="72" rx="8"/><rect x="596" y="73" width="43" height="72" rx="8"/><rect x="646" y="73" width="43" height="72" rx="8"/><rect x="696" y="73" width="43" height="72" rx="8"/><rect x="746" y="73" width="43" height="72" rx="8"/><rect x="796" y="73" width="43" height="72" rx="8"/>
+  </g>
+  <g stroke="#a36a37" stroke-opacity=".30" fill="none"><path d="M493 81h29M553 81h29M603 81h29M653 81h29M703 81h29M753 81h29M803 81h29"/><path d="M493 137h29M553 137h29M603 137h29M653 137h29M703 137h29M753 137h29M803 137h29"/></g>
+  <g font-family="monospace" font-weight="400" font-size="43" text-anchor="middle" fill="#ff8e32" opacity=".68" filter="url(#glow)"><text x="507.5" y="124">1</text><text x="567.5" y="124">0</text><text x="617.5" y="124">4</text><text x="667.5" y="124">8</text><text x="717.5" y="124">5</text><text x="767.5" y="124">9</text><text x="817.5" y="124">6</text><circle cx="537" cy="126" r="3.5"/></g>
+  <g font-family="monospace" font-weight="400" font-size="43" text-anchor="middle" fill="#ffb96c"><text x="507.5" y="124">1</text><text x="567.5" y="124">0</text><text x="617.5" y="124">4</text><text x="667.5" y="124">8</text><text x="717.5" y="124">5</text><text x="767.5" y="124">9</text><text x="817.5" y="124">6</text><circle cx="537" cy="126" r="3"/></g>
+  <text x="855" y="126" fill="#a78969" font-family="monospace" font-size="13" text-anchor="middle">%</text>
+  <text x="486" y="166" fill="#aa8a69" font-family="monospace" font-size="10" letter-spacing="1">WORLDLINE  /  1.048596</text>
+  <text x="860" y="166" fill="#aa8a69" font-family="monospace" font-size="10" text-anchor="end" letter-spacing="1">OP. SKULD</text>
+</svg>
