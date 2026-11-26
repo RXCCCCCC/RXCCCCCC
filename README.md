@@ -28,55 +28,60 @@ Steins;Gate themed profile - RXCCCCCC
 
 ## 🧪 About Me
 
-- 🎓 Undergraduate at **Dalian University of Technology**, School of Software; exchange year at **South China University of Technology** (2025-2026); short-term exchange program in **Japan**
-- 🔭 Research interests: **Agent / MLLM / Multimodal** — building practical interactive AI systems
+- 👋 I'm **Xiongchao Rao** (RXCCCCCC).
+- 🎓 Undergraduate student majoring in **Software Engineering** at **Dalian University of Technology**.
 - 📫 Reach me: [xiongchao.rao@gmail.com](mailto:xiongchao.rao@gmail.com)
 - 📝 Blog: [blog.rxcccccc.icu](https://blog.rxcccccc.icu/)
 
+## 🔬 Research Interests
+
+- **Multimodal Understanding & Generation**
+- **Real-time Multimodal Human-AI Interaction**
+- **AI Agents & Self-Evolving Systems**
+
+## 📚 Research Experience
+
+- **[MiniMind-V — Reproduction & Performance Analysis](https://github.com/RXCCCCCC/minimind-v-research)**  
+  Reproduced the MiniMind-V MoE pre-training, supervised fine-tuning, and evaluation pipeline on a single RTX 4090 and investigated training bottlenecks through performance profiling.
+
+- **[SoulX-Duplug — Reproduction & Protocol Audit](https://github.com/RXCCCCCC/soulx-duplug-reproduction)**  
+  Conducted an independent evaluation of SoulX-Duplug on 1,217 samples under a reconstructed protocol, documenting evaluation discrepancies and reproducibility limitations.
+
 ## 🏆 Honors
 
-| Award | Level |
-| --- | --- |
-| National Scholarship (2025) | National |
-| The 17th Lanqiao Cup — C/C++ Group A, Third Prize (National Final) | National |
-| Asia-Pacific Mathematical Contest in Modeling (APMCM 2025) — Third Prize | National |
-| China Collegiate Computing Contest — AI Application Track, Second Prize | Provincial |
+| Award | Achievement |
+| :--- | :--- |
+| National Scholarship | **2024–2025 & 2025–2026** |
+| Challenge Cup 2026 — Challenge-based Special Competition | **National Second Prize** |
+| 17th Lanqiao Cup — C/C++ Programming, Group A | National Third Prize · Liaoning Provincial First Prize |
+| Asia-Pacific Mathematical Contest in Modeling (APMCM 2025) | Third Prize |
+| 2026 AIGC Innovation Competition — Application Track | Northeast Regional Second Prize |
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,java,vue,html,latex,pytorch,git,linux&theme=dark" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,linux,git,docker&theme=dark" alt="Python, PyTorch, C++, Linux, Git, Docker" />
 </p>
 
-## 📌 Featured Projects
+## 📌 Featured Engineering Projects
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center">
-      <a href="https://github.com/RXCCCCCC/lanxin-travelmate-aigc-2026"><b>lanxin-travelmate-aigc-2026</b></a><br/>
-      <sub>AIGC travel-mate agent for the Lanxin Cup 2026</sub><br/><br/>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/RXCCCCCC/lanxin-travelmate-aigc-2026"><b>TravelMate</b></a><br/>
+      <sub>Memory-Augmented Travel Agent</sub><br/><br/>
+      A travel agent featuring graph-based orchestration, structured tool planning, and human-in-the-loop memory management.<br/><br/>
       <img src="https://img.shields.io/badge/Python-ff9a1f?style=flat-square&logo=python&logoColor=white&labelColor=1a0e04" alt="Python" />
+      <img src="https://img.shields.io/badge/LangGraph-ff9a1f?style=flat-square&labelColor=1a0e04" alt="LangGraph" />
       <a href="https://github.com/RXCCCCCC/lanxin-travelmate-aigc-2026"><img src="https://img.shields.io/github/stars/RXCCCCCC/lanxin-travelmate-aigc-2026?style=flat-square&color=ff8c00&labelColor=1a0e04" alt="stars" /></a>
     </td>
-    <td align="center">
-      <a href="https://github.com/RXCCCCCC/The_Temptation_of_Dahei_Mountain"><b>The_Temptation_of_Dahei_Mountain</b></a><br/>
-      <sub>C++ game project</sub><br/><br/>
-      <img src="https://img.shields.io/badge/C%2B%2B-ff9a1f?style=flat-square&logo=cplusplus&logoColor=white&labelColor=1a0e04" alt="C++" />
-      <a href="https://github.com/RXCCCCCC/The_Temptation_of_Dahei_Mountain"><img src="https://img.shields.io/github/stars/RXCCCCCC/The_Temptation_of_Dahei_Mountain?style=flat-square&color=ff8c00&labelColor=1a0e04" alt="stars" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RXCCCCCC/dlut-aigc-project"><b>dlut-aigc-project</b></a><br/>
-      <sub>AIGC web application built with Vue</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Vue.js-ff9a1f?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=1a0e04" alt="Vue" />
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/RXCCCCCC/dlut-aigc-project"><b>DLUT AIGC</b></a><br/>
+      <sub>Multimodal 3D Generation Platform</sub><br/><br/>
+      A web platform integrating text-to-3D and image-to-3D generation services with interactive 3D visualization.<br/><br/>
+      <img src="https://img.shields.io/badge/Vue.js-ff9a1f?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=1a0e04" alt="Vue.js" />
+      <img src="https://img.shields.io/badge/Three.js-ff9a1f?style=flat-square&logo=threedotjs&logoColor=white&labelColor=1a0e04" alt="Three.js" />
       <a href="https://github.com/RXCCCCCC/dlut-aigc-project"><img src="https://img.shields.io/github/stars/RXCCCCCC/dlut-aigc-project?style=flat-square&color=ff8c00&labelColor=1a0e04" alt="stars" /></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/RXCCCCCC/cjw_red_map"><b>cjw_red_map</b></a><br/>
-      <sub>Red-tourism map web app built with Vue</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Vue.js-ff9a1f?style=flat-square&logo=vuedotjs&logoColor=white&labelColor=1a0e04" alt="Vue" />
-      <a href="https://github.com/RXCCCCCC/cjw_red_map"><img src="https://img.shields.io/github/stars/RXCCCCCC/cjw_red_map?style=flat-square&color=ff8c00&labelColor=1a0e04" alt="stars" /></a>
     </td>
   </tr>
 </table>
